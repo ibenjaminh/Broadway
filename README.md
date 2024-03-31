@@ -1,6 +1,6 @@
 # Broadway Design - Layout Enhancement Project
 
-Welcome to my project with Broadway Design, a fictional design firm whose landing page received a bit of a facelift, thanks to me and Codecademy. This was an on-platform project that allowed me to delve deep into the intricacies of CSS, focusing on display and position properties to enhance the site's layout.
+Welcome to my project with Broadway Design, a fictional design firm whose landing page received a bit of a facelift, thanks to me and Codecademy. This was an on-platform project that allowed me to delve deep into the intricacies of CSS, focusing on display and position properties to enhance the site's layout. LINK --> https://ibenjaminh.github.io/Broadway/
 
 ![localhost_63342_broadway_index html__ijt=o8k1fsju7m091slgn0dtgml62t (1)](https://github.com/ibenjaminh/Broadway/assets/162258152/210ad508-2205-45fa-9804-078bfea3ba71)
 
